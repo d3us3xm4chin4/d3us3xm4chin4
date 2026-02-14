@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/2d9cbfa4-c036-48aa-874f-e3016f3abb38/thumbnail" >
+</p>
 
 <!--
 **d3us3xm4chin4/d3us3xm4chin4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
